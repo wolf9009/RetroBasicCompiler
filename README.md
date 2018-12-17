@@ -1,4 +1,7 @@
 # RetroBasicCompliler
+
+Sahapol Tongsom 5931071921
+
 Step to use:
 
 Create a new file main.txt.
